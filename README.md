@@ -45,6 +45,10 @@ Also, a leaderboard should be included if only:
 
 - [BenchClaw](https://github.com/Agnuxo1/BenchClaw) — Decentralized Benchmarking Tribunal for Scientific Models
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/SAILResearch/awesome-ai-leaderboard">upstream project</a>’s collection of AI leaderboards, evaluation tools and operating practices. Researchers can locate task-relevant comparisons and inspect how rankings are produced before spending resources on a new model evaluation. The collection supports more informed benchmark selection; leaderboard positions remain conditional on their datasets, metrics and evaluation procedures.</sub>
+<!-- impact-note:end -->
+
 ## Table of Contents
 - [**Tools**](#tools)
 - [**Challenges**](#challenges)
